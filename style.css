@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 	box-sizing: border-box;
 
-background: url(../img/fullbg.png) no-repeat center / cover;
+background: url(../fullbg.png) no-repeat center / cover;
 max-height: 100%;
 max-width: 100%;
 padding: 0;
@@ -13,7 +13,7 @@ margin: 0;
 }
 
 header {
-  background: url(../img/topimg.jpg) no-repeat center top / cover;
+  background: url(../topimg.jpg) no-repeat center top / cover;
   height: 700px;
   max-width: 100%;
 }
@@ -289,7 +289,7 @@ height: 700px;
   text-align: center;
 }
 .resume {
-background: url(../img/resumebg.png) no-repeat center bottom / cover; 
+background: url(../resumebg.png) no-repeat center bottom / cover; 
 height: 700px;
 margin-top: 20%;
 max-width: 100%;
@@ -330,7 +330,7 @@ max-width: 100%;
 	max-width: 100%;
 }
 .contacts {
-background: url(../img/footerbg.jpg) no-repeat center bottom / cover; 
+background: url(../footerbg.jpg) no-repeat center bottom / cover; 
 height: 700px;
 max-width: 100%;
 }
